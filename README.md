@@ -1,1 +1,1 @@
-# -ebpf-go-example
+# ebpf-go-example
